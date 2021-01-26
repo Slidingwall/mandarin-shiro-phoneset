@@ -1,7 +1,7 @@
 # mandarin-shiro-phoneset
 Mandarin phoneset in different phonetic transcription for SHIRO (untested).
 
-不同标记法下的普通话SHIRO音素列表（未经测试）。
+用于SHIRO的不同标记法下的普通话音素列表（未经测试）。
 
 ---
 ## Supported phonetic transcription / 支持的标记法
